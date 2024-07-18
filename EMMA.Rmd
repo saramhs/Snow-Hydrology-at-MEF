@@ -1,3 +1,7 @@
+git rm EMMA.Rmd
+git commit -m "remove EMMA.Rmd"
+
+
 ​​#setup
 #Modern Applied Statistics with S
 pkgs = c("dplyr", "ggplot2", "MASS") 
